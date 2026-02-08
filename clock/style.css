@@ -1,5 +1,4 @@
 *
-
 {
     margin: 0;
     padding: 0;
@@ -62,5 +61,6 @@ body{
 #clock #time div:last-child span:nth-child(2){
     background: #ec0062;
 }
+
 
 
